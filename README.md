@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gaugeholanda
+- 👀 I’m interested in sftware architecture
+- 🌱 I’m currently learning microservices
+- 📫 How to reach me bruno.holanda@gauge.com.br
